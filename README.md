@@ -8,4 +8,4 @@ you can find the dataset in the hakan.csv
 
 
 35DB_1E9_ALTI
-![35DB_1E9_ALTI](https://user-images.githubusercontent.com/92651381/227140468-15288767-79b8-4340-b71c-5bf856cbace7.PNG)
+[35DB_1E9_ALTI](https://user-images.githubusercontent.com/92651381/227140468-15288767-79b8-4340-b71c-5bf856cbace7.PNG)
