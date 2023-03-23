@@ -12,6 +12,5 @@ you can find the dataset in the hakan.csv
 
 
 
-
 ![30dB Altı ve _300 MHz_Üstü]
 ![30db_altı_300mhz_üstü](https://user-images.githubusercontent.com/92651381/227141587-091a8875-ebaa-42e6-a3e8-66bea450cd0f.PNG)
