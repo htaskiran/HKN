@@ -7,12 +7,12 @@ you can find the dataset in the hakan.csv
 ![problem](https://user-images.githubusercontent.com/92651381/221808630-d6f28a57-89ab-46a1-b017-3c3a60852e9f.PNG)
 
 
-![33dB_35dB_1 GHz_Altı]
+
 ![35DB_1E9_ALTI](https://user-images.githubusercontent.com/92651381/227140468-15288767-79b8-4340-b71c-5bf856cbace7.PNG)
 
 
 
-![30dB Altı ve _300 MHz_Üstü]
+
 ![30db_altı_300mhz_üstü](https://user-images.githubusercontent.com/92651381/227141587-091a8875-ebaa-42e6-a3e8-66bea450cd0f.PNG)
 
 
